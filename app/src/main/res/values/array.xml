@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="MainMeal">
+    <string-array name="mainMeal">
         <item>牛排</item>
         <item>義大利麵</item>
         <item>雞肉焗烤飯</item>
